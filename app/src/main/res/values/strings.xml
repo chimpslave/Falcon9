@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Falcon9</string>
+    <string name="launch_date">Launch Date: %s</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_getting_launches">There was a problem retrieving launch data, try again?</string>
+    <string name="try_again">Try again</string>
+    <string name="fetching_data">Fetching data</string>
+    <string name="mission_success">Mission Success: </string>
+    <string name="patch_desc">Mission Patch Image</string>
+    <string name="error_desc">Error Image</string>
+    <string name="loading_desc">Error Image</string>
+</resources>
